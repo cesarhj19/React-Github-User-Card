@@ -1,0 +1,31 @@
+#root {
+	margin-top: 30px;
+}
+
+.card {
+	width: 800px;
+	background: rgb(30, 136, 235);
+	border-radius: 5px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+}
+
+.card img {
+	margin: 0 auto;
+	display: block;
+	padding: 15px 0;
+}
+
+.card .card-info {
+	width: 80%;
+	margin: 0 auto;
+	background: white;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+
+.card .card-info .text-container {
+	width: 95%;
+	margin: 0 auto;
+}
